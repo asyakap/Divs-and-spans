@@ -1,0 +1,31 @@
+.intro {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+
+.emphasize {
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+/* This is an example CSS selector for a class attribute */
+
+
+/* This is an example CSS selector for an id attribute */
+#line2 {
+  color: red;
+}
