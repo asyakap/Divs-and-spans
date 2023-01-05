@@ -1,13 +1,17 @@
 .intro {
-  width: 50%;
+  width: 90vh;
   font-style: italic;
   color: red;
 }
 
-p.author {
+.author {
   width: 75%;
-  font-style: italic;
   font-weight: bold;
+}
+
+.blogpost {
+  width: 50%;
+  font-style: italic;
 }
 
 .important {
@@ -16,6 +20,10 @@ p.author {
 
 .emphasize {
   font-weight: bold;
+}
+
+.img {
+  float: left;
 }
 
 .highlight {
@@ -28,4 +36,20 @@ p.author {
 /* This is an example CSS selector for an id attribute */
 #line2 {
   color: red;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.main {
+  width: 400px;
+  font-style: italic;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
